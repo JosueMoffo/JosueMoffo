@@ -1,16 +1,19 @@
-## Hi there 👋
+# Salut, moi c'est Fred 👋
 
-<!--
-**JosueMoffo/JosueMoffo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant ingénieur à l'ENSPY, stagiaire DevOps.
 
-Here are some ideas to get you started:
+## Ce que je fais
+- 🔧 Infrastructure et automatisation (CI/CD, Docker, Linux)
+- 🖥️ Supervision et gestion de serveurs
+- 🔐 Passionné de logique et de cryptographie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+## Mes stats
+![Stats](https://github-readme-stats.vercel.app/api?username=TONPSEUDO&show_icons=true)
+
+## Me contacter
+[LinkedIn](https://linkedin.com/in/ton-profil) · fred@email.com
